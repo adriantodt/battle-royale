@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 6,
+  "description" : "{0}, {1}, {2}, {3}, and {4} track down and kill {5}.",
+  "killed" : [ 5 ],
+  "killers" : [ 0, 1, 2, 3, 4 ],
+  "predicate" : { },
+  "applies" : { }
+}

@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0} shoots an arrow at {1}, but misses and kills {2} instead.",
+  "killed" : [ 2 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

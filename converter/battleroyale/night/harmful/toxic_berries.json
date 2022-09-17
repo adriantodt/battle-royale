@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} unknowingly eats toxic berries.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

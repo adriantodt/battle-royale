@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} accidently steps on a landmine.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} poisons {1}'s drink. They drink it and they die.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

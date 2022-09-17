@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} kills {1} as they tries to run.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

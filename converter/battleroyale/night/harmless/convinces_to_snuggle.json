@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} convinces {1} to snuggle with them.",
+  "predicate" : { },
+  "applies" : { }
+}

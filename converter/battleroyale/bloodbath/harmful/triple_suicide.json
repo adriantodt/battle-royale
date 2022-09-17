@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 4,
+  "description" : "{0}, {1}, {2}, and {3} form a suicide pact, killing themselves.",
+  "killed" : [ 0, 1, 2, 3 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

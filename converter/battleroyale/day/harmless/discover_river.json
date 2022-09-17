@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} discovers a river.",
+  "predicate" : { },
+  "applies" : { }
+}

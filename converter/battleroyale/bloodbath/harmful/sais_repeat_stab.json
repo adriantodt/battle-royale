@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} repeatedly stabs {1} to death with sais.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

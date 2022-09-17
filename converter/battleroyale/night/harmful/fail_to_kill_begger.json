@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} begs for {1} to kill them. {1} reluctantly obliges, killing {0}.",
+  "killed" : [ 0 ],
+  "killers" : [ 1 ],
+  "predicate" : { },
+  "applies" : { }
+}

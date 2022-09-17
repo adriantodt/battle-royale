@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} catches {1} off guard and kills them.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

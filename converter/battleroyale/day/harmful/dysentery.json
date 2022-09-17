@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} dies of dysentery.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} and {1} get into a fight over raw meat, but {1} gives up and runs away.",
+  "predicate" : { },
+  "applies" : { }
+}

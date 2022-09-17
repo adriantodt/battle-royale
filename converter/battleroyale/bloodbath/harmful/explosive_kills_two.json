@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0} sets an explosive off, killing {1}, and {2}.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

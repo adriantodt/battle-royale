@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0}, {1}, and {2} get into a fight. {2} triumphantly kills them both.",
+  "killed" : [ 0, 1 ],
+  "killers" : [ 2 ],
+  "predicate" : { },
+  "applies" : { }
+}

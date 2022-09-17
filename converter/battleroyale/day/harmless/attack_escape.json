@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} attacks {1}, but they manage to escape.",
+  "predicate" : { },
+  "applies" : { }
+}

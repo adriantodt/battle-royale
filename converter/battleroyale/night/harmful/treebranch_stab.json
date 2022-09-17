@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} stabs {1} with a tree branch.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

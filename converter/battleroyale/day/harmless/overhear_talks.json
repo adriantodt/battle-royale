@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0} overhears {1} and {2} talking in the distance.",
+  "predicate" : { },
+  "applies" : { }
+}

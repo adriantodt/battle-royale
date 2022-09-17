@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} sets {1} on fire with a molotov.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

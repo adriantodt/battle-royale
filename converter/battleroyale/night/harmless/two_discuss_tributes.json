@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} and {1} talk about the tributes still alive.",
+  "predicate" : { },
+  "applies" : { }
+}

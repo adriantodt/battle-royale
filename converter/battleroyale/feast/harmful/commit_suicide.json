@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} cannot handle the circumstances and commits suicide.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

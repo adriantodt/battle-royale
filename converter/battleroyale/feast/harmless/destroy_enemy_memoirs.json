@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} destroys {1}'s memoirs out of spite.",
+  "predicate" : { },
+  "applies" : { }
+}

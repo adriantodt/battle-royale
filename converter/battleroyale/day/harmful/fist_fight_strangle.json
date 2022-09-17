@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} strangles {1} after engaging in a fist fight.",
+  "killed" : [ 0 ],
+  "killers" : [ 1 ],
+  "predicate" : { },
+  "applies" : { }
+}

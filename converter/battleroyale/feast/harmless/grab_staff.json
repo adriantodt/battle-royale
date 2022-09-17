@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} takes a staff leaning against the cornucopia.",
+  "predicate" : { },
+  "applies" : { }
+}

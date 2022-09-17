@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} kills {1} with a sickle.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

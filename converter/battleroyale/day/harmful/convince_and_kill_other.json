@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0} convinces {1} to not kill them, only to kill {2} instead.",
+  "killed" : [ 2 ],
+  "killers" : [ 1 ],
+  "predicate" : { },
+  "applies" : { }
+}

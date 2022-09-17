@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} and {1} threaten a double suicide. It fails and they die.",
+  "killed" : [ 0, 1 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

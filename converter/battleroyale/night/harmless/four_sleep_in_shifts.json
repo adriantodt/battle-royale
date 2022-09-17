@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 5,
+  "description" : "{0}, {1}, {2}, {3}, and {4} sleep in shifts.",
+  "predicate" : { },
+  "applies" : { }
+}

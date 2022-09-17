@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} attempts to climb a tree, but falls on {1}, killing them both.",
+  "killed" : [ 0, 1 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

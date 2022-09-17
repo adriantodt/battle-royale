@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} sees a fire, but stays hidden.",
+  "predicate" : { },
+  "applies" : { }
+}

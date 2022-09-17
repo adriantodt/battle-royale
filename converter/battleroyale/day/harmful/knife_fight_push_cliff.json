@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} pushes {1} off a cliff during a knife fight.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

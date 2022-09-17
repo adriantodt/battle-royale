@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} finds a backpack full of camping equipment.",
+  "predicate" : { },
+  "applies" : { }
+}

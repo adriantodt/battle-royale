@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} silently snaps {1}'s neck.",
+  "killed" : [ 0 ],
+  "killers" : [ 1 ],
+  "predicate" : { },
+  "applies" : { }
+}

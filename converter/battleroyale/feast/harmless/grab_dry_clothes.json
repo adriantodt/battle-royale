@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} stuffs a bundle of dry clothing into a backpack before sprinting away.",
+  "predicate" : { },
+  "applies" : { }
+}

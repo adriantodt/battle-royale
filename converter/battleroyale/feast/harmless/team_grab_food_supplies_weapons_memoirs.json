@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 4,
+  "description" : "{0}, {1}, {2}, and {3} team up to grab food, supplies, weapons, and memoirs.",
+  "predicate" : { },
+  "applies" : { }
+}

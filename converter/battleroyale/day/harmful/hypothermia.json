@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} dies from hypothermia.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

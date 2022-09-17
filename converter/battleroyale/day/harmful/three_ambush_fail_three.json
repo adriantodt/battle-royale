@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 6,
+  "description" : "{0}, {1}, and {2} unsuccessfully ambush {3}, {4}, and {5}, who kill them instead.",
+  "killed" : [ 0, 1, 2 ],
+  "killers" : [ 3, 4, 5 ],
+  "predicate" : { },
+  "applies" : { }
+}

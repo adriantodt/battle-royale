@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} severely injures {1} and leaves them to die.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

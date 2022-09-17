@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} is pricked by thorns while picking berries.",
+  "predicate" : { },
+  "applies" : { }
+}

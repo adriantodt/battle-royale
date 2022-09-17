@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} falls into a frozen lake and drowns.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

@@ -1,0 +1,47 @@
+{pack_name}.zip {
+    pack.json {
+        "author": string
+        "description": string
+        "start_phase": string
+        [ "start_phase_subtype": string ]
+    }
+
+    phases/ {
+        {phase_type}/ {
+            {phase_subtype}/ {
+                harmful/ {
+                    {action_name}.json {
+
+                    }
+                }
+                harmless/ {
+                    {action_name}.json {
+
+                    }
+                }
+                playable/ {
+                    {action_name}.json {
+
+                    }
+                }
+            }
+
+            {phase_subtype}.json {
+                "start_text": string,
+                "end_text": string,
+                "next_phase": string
+            }
+        }
+    }
+}
+
+###
+default.zip {
+    pack.json {
+        "author": "AdrianTodt"
+    }
+
+    phases/bloodbath/ {
+
+    }
+}

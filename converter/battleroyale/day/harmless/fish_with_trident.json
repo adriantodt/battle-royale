@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} tries to spear fish with a trident.",
+  "predicate" : { },
+  "applies" : { }
+}

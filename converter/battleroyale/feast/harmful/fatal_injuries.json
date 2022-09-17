@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} bleeds out due to untreated injuries.",
+  "killed" : [ 0 ],
+  "killers" : [ ],
+  "predicate" : { },
+  "applies" : { }
+}

@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} is unable to start a fire and sleeps without warmth.",
+  "predicate" : { },
+  "applies" : { }
+}

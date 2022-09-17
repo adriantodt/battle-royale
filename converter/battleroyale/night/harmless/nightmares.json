@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} is awoken by nightmares.",
+  "predicate" : { },
+  "applies" : { }
+}

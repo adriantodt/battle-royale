@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 1,
+  "description" : "{0} travels to higher ground.",
+  "predicate" : { },
+  "applies" : { }
+}

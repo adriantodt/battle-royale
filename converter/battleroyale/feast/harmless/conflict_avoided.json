@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0}, {1}, and {2} confront each other, but grab what they want slowly to avoid conflict.",
+  "predicate" : { },
+  "applies" : { }
+}

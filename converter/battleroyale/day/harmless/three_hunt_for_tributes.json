@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0}, {1}, and {2} hunt for other tributes.",
+  "predicate" : { },
+  "applies" : { }
+}

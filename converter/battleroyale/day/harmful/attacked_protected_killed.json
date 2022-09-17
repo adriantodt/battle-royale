@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 3,
+  "description" : "{0} attacks {1}, but {2} protects them, killing {0}.",
+  "killed" : [ 0 ],
+  "killers" : [ 2 ],
+  "predicate" : { },
+  "applies" : { }
+}

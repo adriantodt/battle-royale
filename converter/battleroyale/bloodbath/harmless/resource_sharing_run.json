@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 4,
+  "description" : "{0}, {1}, {2}, and {3} share everything they gathered before running.",
+  "predicate" : { },
+  "applies" : { }
+}

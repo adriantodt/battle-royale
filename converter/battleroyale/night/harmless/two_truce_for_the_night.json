@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} and {1} run into each other and decide to truce for the night.",
+  "predicate" : { },
+  "applies" : { }
+}

@@ -1,0 +1,6 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} breaks {1}'s nose for a basket of bread.",
+  "predicate" : { },
+  "applies" : { }
+}

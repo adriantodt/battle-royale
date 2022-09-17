@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 2,
+  "description" : "{0} overpowers {1}, killing them.",
+  "killed" : [ 1 ],
+  "killers" : [ 0 ],
+  "predicate" : { },
+  "applies" : { }
+}

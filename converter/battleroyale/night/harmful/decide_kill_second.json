@@ -1,0 +1,8 @@
+{
+  "targetAmount" : 4,
+  "description" : "{0} forces {1} to kill {2} or {3}. They decide to kill {3}.",
+  "killed" : [ 3 ],
+  "killers" : [ 1 ],
+  "predicate" : { },
+  "applies" : { }
+}
